@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨Creating bugs since 2020<br>📚 I love to study<br>🎲 I'm a professional osu player!(in my mind)</p>
+<p align="left">✨Creating bugs since 2020<br>📚 I love to study<br></p>
+<!-- 🎲 I'm a professional osu player!(in my mind) -->
 
 ###
 
